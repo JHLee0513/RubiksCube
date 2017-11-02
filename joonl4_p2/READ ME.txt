@@ -1,0 +1,12 @@
+File Documentation
+
+rubiksClient: Contains logic for playing the game
+PLEASE RUN THIS FILE
+
+rubiks.py: Contains main game formulation and logic
+
+rubiks_Array_VIS_FOR_TK: Contains visualization method through TKinter
+
+show_state_array: Necessary for visual display in TKinter
+
+P2-Description.pdf: Documentation of the project
